@@ -1,0 +1,5 @@
+====================================================================================
+1. Do not edit any codes from directories other than your own
+2. Always pull git before editing your codes
+3. Always push git after you have done written your codes
+4. Strictly follow these rules above
