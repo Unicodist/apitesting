@@ -1,6 +1,9 @@
 import requests
+import json
 
-BASE = "http://127.0.0.1:5000/"
+response = requests.get('https://api.chucknorris.io/jokes/random')
 
-response = requests.get(BASE+'/api/user/'+str(1))
-print(response.json())
+data = response.json()
+print(data)
+print()
+print(data['value'])
