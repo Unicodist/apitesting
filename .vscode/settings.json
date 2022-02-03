@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "httpcomponents/lib/httpclient5-5.1.2.jar",
+        "JSONObject.jar",
+        "JavaDemo/httpcomponents/lib/httpclient5-5.1.2.jar",
+        "JavaDemo/JSONObject.jar",
+        "JavaDemo/library-2.0.1.jar"
+    ]
+}
